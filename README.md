@@ -1,2 +1,29 @@
 # E-Commerce-Sales-Analysis-
 Power BI dashboard analyzing global e-commerce sales performance
+
+## 📊 About the Project
+This Power BI project analyzes an e-commerce company's sales performance across various categories, markets, and shipping methods. It provides insights on sales distribution, profit, shipping costs, and customer behavior across regions.
+
+## 📁 Files Included
+- **E-Commerce.pbix** – Power BI dashboard file
+- **ECOMM DATA (17).xlsx** – Dataset used for analysis
+- **E-Commerce report.pdf** – PDF version of the dashboard with key visuals
+
+## 🔍 Key Insights
+- **Total Sales:** $12.64M  
+- **Total Profit:** $1.47M  
+- **Total Orders:** 178K  
+- **Highest Selling Categories:** Technology, Furniture  
+- **Top Markets:** APAC, EU, US  
+- **Top Performing States:** England, California, Ile-de-France
+
+## 🚚 Shipping Insights
+- Standard Class: Most used shipping mode
+- Same Day: Least used but fastest
+
+## 🚀 Tools Used
+- Microsoft Power BI
+- Excel for data input
+
+
+
